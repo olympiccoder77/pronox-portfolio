@@ -1,0 +1,13 @@
+
+### **Main Colors:**
+- **Deep Teal** (#1B4D4B) – Great for headers, backgrounds, or accents.  
+- **Turquoise** (#3A8682) – Ideal for call-to-action buttons or highlights.  
+- **Soft Aqua** (#74B3B0) – A subtle complement for backgrounds or secondary elements.  
+- **Warm Sand** (#D9C5B2) – A neutral balance for text areas or backgrounds.  
+- **Muted Gray-Blue** (#506D7A) – For text or subtle UI elements.  
+
+### **Accent Colors:**
+- **Rustic Brown** (#A66A5C) – Adds warmth and contrast for special elements.  
+- **Soft White** (#F4F3EF) – Ensures readability when used as a background.  
+
+This palette creates a **modern, elegant, and calming** aesthetic. Do you want help applying it to a specific web design? 😊
