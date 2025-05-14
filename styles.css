@@ -205,33 +205,31 @@ header ul li a img{
 }
 .the-packages{
     position: relative;
-    width: 100%;
+
 }
-.packages{
-    width: auto;
-}
+
 .package-items{
-    display: inline-block;
-    margin: 50px 55px;
-    max-width: 100%;
-    width: 25%;
-    background-color: #ffffff18;
+    background-color: #00000077;
     backdrop-filter: blur(2px);
     border-radius: 50px;
-    justify-content: start;
+    justify-content: center;
+    border: 1px solid white;
+    width: 30%;
+
 }
 .package-items h2,p{
     justify-content: center;
     align-items: center;
     color: #ffffff;
     display: flex;
-    
+
 }
 .package-items h2{
     font-size: 40px;
 }
 .package-items p{
     font-size: 25px;
+   
 }
 .hidden-items{
     visibility: hidden;
@@ -241,13 +239,13 @@ header ul li a img{
     color: #FFF;
     padding: 10px;
     background-color: rgb(179, 0, 255);
-    margin: 50px 33%;
+    margin: 0px ;
     align-items: center;
     justify-content: center;
     max-width: 100%;
     width: 30%;
     display:flex;
-    border-radius: 50px;
+    border-radius: 10px;
     transition: 0.3s;
 }
 .action-button :hover{
@@ -580,11 +578,12 @@ header ul li a img{
         margin: 0 25%;
        }
        .package-items{
-        width: 75%;
+        width: 100%;
+      
        }
        .package-items p a{
         width: 80%;
-        margin: 50px 0;
+
        }
        .feedbacks-section h1{
         font-size: 20px;
