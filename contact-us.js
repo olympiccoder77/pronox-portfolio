@@ -18,6 +18,7 @@ document.getElementById("dataForm").addEventListener("submit", function(event) {
     formData.append("entry.1267305486", document.getElementById("phone").value);
     formData.append("entry.337177248", document.getElementById("message").value);
     
+    
     fetch(formURL, { method: "POST", body: formData, mode: "no-cors" })
     .then(() => {
         // إعادة تهيئة النموذج بعد نجاح الإرسال

@@ -503,6 +503,9 @@ header ul li a img{
     color: #fff;
     font-size: 20px;
 }
+.price::placeholder{
+    color: #fff;
+}
 
 @media (max-aspect-ratio: 16/9){
     .back-vid{
@@ -628,5 +631,6 @@ header ul li a img{
         .about-section{
             display: none;
         }
+       
 
 }
